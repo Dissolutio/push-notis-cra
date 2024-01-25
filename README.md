@@ -66,7 +66,7 @@ self.addEventListener('push', event => {
 Now open DevTools with the Update on reload option enabled or its equivalent in your favorite browser and reload the page. As the result, custom-sw.js should be installed.
 
 You can check its working by sending a test local notification with such content:
-`{“body”: “devbody”, “title”: “devtest”}`
+`{"body":"devbody","title":"devtest"}`
 
 IMAGE HERE
 
