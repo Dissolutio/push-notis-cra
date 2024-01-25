@@ -247,4 +247,6 @@ If something goes wrong, you can check with the boilerplate:
 Node app: https://github.com/seladir/demo-webpush-node
 React app: https://github.com/seladir/demo-webpush-react
 
+**END ARTICLE**
 
+## NEXT STEP: So, how to actually fire a noti from the server?
